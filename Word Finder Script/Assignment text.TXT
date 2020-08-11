@@ -1,0 +1,11 @@
+Write a script that searches for a given word-phrase in multiple text files . If it finds the given word-phrase it should do two things:
+
+1.Copy the file it found the word-phrase in it to another location the user specifies (parameter)
+
+2.Outputs the line number where it found the word or phrase, to make it easier for the user to know were in the given document he should look.
+
+ 
+
+3- Use Regex or words/phrases
+
+4- Do some analytics: like a counter on certain works, phrases, regex ans store them in a file

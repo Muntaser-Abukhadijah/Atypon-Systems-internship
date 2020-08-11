@@ -1,0 +1,11 @@
+Assume that you are a Java developer in company A. Show a scenario of using IntelliJ, Git, and Github to collaborate with
+your colleagues in the company to build a product. Use any of the Git
+workflows you see suitable and capture all of that in a a 10 mins
+video that demonstrates your understanding of version control using
+Git and Github. 
+Keep product code/features/classes simple – The idea here is to test
+your Git and Github knowledge and skills, not to test your Java coding
+abilities. For recording the video, use any simple screen capturing
+software. Host your video anywhere (G-Drive or youtube private
+listing for example), and share the link on your schoology assignment
+submission.
