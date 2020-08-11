@@ -1,0 +1,122 @@
+500
+2
+2
+4
+north
+Chest
+No key
+0
+false
+2
+Key
+Red key
+100
+MoneyBag
+140
+10
+east
+Door
+False
+Red key
+100
+False
+south
+Mirror
+0
+west
+emptyWall
+Green empty wall
+true
+true
+4
+north
+Seller
+2
+Key
+Blue key
+200
+FlashLight
+100
+5
+key
+Red key
+100
+moneyBag
+140
+10
+key
+Blue key
+200
+flashLight
+100
+key
+Yellow key
+20
+east
+Mirror
+0
+south
+Door
+False
+Blue key
+200
+true
+west
+Door
+False
+Red key
+100
+false
+true
+true
+4
+north
+Mirror
+1
+Key
+Yellow key
+20
+east
+Door
+False
+Null
+0
+False
+south
+Door
+False
+Orange key
+200
+true
+west
+Door
+False
+Yellow key
+20
+true
+false
+false
+4
+north
+Door
+true
+Blue key
+200
+false
+east
+Painting
+1
+Key
+Green key
+10
+south
+emptyWall
+Black empty wall
+west
+Door
+False
+Green key
+10
+true
+true
+false

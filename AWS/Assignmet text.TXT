@@ -1,0 +1,11 @@
+This assignment on AWS. Please build the VPC shown in the AWS sldies, and recrod a video that is no longer than 25 mins (20 mins preferable). Videos should be uploaded on youtube privtate listing with clear voice and resolution. 
+
+- Outstanding people will do (or attempt) the extras, in top of the reuried points
+
+- Good people will do the required points
+
+In case you see that it is difficult for you to come up with the required VPC, you can build a simple VPC of one public subnet and one private subnet (with one server in each subnet) - that will be only acceptable level. 
+
+ 
+
+I would encourage all of you to add AWS to your skills - trust me, you won't regret it! 

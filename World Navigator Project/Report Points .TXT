@@ -1,0 +1,17 @@
+Read the attached document. 
+
+In addition to building a working software, you need to write a report that includes the following points: 
+
+1.  How your code satisfies the clean code principles according to Robert Martin’s “Clean Code” book.
+
+2.  How your code satisfies the effective Java code principles according to Joshua Bloch’s “Effective Java” book.
+
+3.  Discuss the design patterns you used to implement your solution and why.
+
+4.  How your code satisfies the SOLID principles? You can refer to Robert Martin’s “Clean Architecture” book, or any other reference.
+
+5.  How your code satisfies Google (or Twitter) styling guide.
+
+6. Concurrency issues in your code and how you dealt with that
+
+7. Data structures you used and why.

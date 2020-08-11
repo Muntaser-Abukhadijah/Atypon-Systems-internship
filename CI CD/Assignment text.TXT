@@ -1,0 +1,1 @@
+Build a complete Jenkins CI/CD pipeline for a simple web app (one jsp/html file) using Maven as build tool, Github for the repository, and Ansible deploy your docker image on two AWS web servers with a load balancer to dirstibue requests among the web servers. Record a 10 - 15 mins video to explain what you did.
